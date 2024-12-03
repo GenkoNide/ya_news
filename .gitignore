@@ -25,3 +25,7 @@ htmlcov/
 .coverage.*
 coverage.xml
 *.cover
+tests/__init__.py
+tests/test_content.py
+tests/test_routes.py
+tests/test_logic.py
